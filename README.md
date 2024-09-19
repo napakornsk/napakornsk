@@ -1,7 +1,7 @@
 - 👋 Hi, I’m napakorn
-- 👀 I’m interested in Game Development, Unity, C#
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on Game Development
+- 👀 I’m interested in Backend developer and DevOps
+- 🌱 I’m currently working in Backend developer position
+- 💞️ I’m looking to collaborate on any cool software!!!
 - 📫 Contact me on napakorn.sk@gmail.com
 
 <!---
